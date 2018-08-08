@@ -1,4 +1,4 @@
-## ゼロアグリのCloudGateSDKのBuild環境をvagrantで実現する
+## CloudGateSDKのBuild環境をvagrantで実現する
 
 ### 環境
 ```sh
